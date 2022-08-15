@@ -1,0 +1,139 @@
+#body-section{background-image: url("financity-image.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+.Menu-bar{
+    float: right;
+    margin: 15px;
+    position:absolute;
+    top: 16px;
+    right: 200px;
+    
+}
+.logo{color: salmon;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+
+}
+.home-btn{font-weight: bold;
+    width: 100px;
+    height: 70px;
+    color:salmon;
+    margin: 15px;
+    border: none;
+    font-size: 16px;
+    background-color: transparent;
+    position: relative;
+    bottom: 36px;
+}
+.home-icon{
+    width: 20px;
+    height: 18px;
+    position: relative;
+    right: 45px;
+    top: 38px;
+}
+.pages-btn{font-weight: bold;
+    color:salmon;
+    margin: 15px;
+    border: none;
+    font-size: 16px;
+    background-color: transparent;
+}
+.ourservices-btn{font-weight: bold;
+    color:salmon;
+    margin: 15px;
+    border: none;
+    font-size: 16px;
+    background-color: transparent;
+}
+.ourcases-btn{font-weight: bold;
+    color:salmon;
+    margin: 15px;
+    border: none;
+    font-size: 16px;
+    background-color: transparent;
+}
+
+.features-btn{font-weight: bold;
+    color:salmon;
+    margin: 15px;
+    border: none;
+    font-size: 16px;
+    background-color: transparent;
+}
+.blog-btn{font-weight: bold;
+    color:salmon;
+    margin: 15px;
+    border: none;
+    font-size: 16px;
+    background-color: transparent;
+
+}
+.shop-btn{color:salmon;
+    margin: 15px;
+    border: none;
+    font-size: 16px;
+    font-weight: bold;
+    color:salmon;
+    background-color: transparent;
+
+}
+.search-btn{
+ background: transparent;
+ border: none;
+}
+.cart-icon{
+    width: 18px;
+    height: 18px;
+    position: relative;
+    top: 5px;
+}
+.cart-btn{
+    background: transparent;
+    border: none;
+}
+.search-icon{
+    width:18px ;
+    height: 18px;
+    position: relative;
+    top: 5px;
+}
+.main-statement{
+  position: absolute;
+  top: 150px;
+  left: 50px;
+}
+.welcome-statement{
+    font-size: 50px;
+    font-weight: 100;
+    color: rgb(75, 0, 145);
+    position: relative;
+    top: 40px;
+}
+.g-business{position: relative;
+    bottom: 50px;
+    font-size: 130px;
+    font-weight:600;
+    color:salmon;
+    right: 10px;
+}
+.last-line{position: relative;
+    bottom: 20px;
+    color:chocolate;
+}
+.contactus-btn{background-color: salmon;
+    width: 150px;
+    height: 40px;
+    font-weight: bold;
+    color:rgb(75, 0, 145) ;
+    padding: 10px 20px 10px 20px;
+    border-radius: 20px;
+    border: 1px lightgray;
+    position: relative;
+    bottom: 10px;
+}
